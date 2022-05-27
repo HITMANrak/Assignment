@@ -6,6 +6,6 @@
  There are two ways to do it
  
  1. Using JSON File for the path specification or
- 2. Applying the readfoler and folder directory path for autodetection of the directory name.
+ 2. Applying the readfoler and folder directory path for autodetection of the directory name doesn't matter how many folders are there in the sites.
 
 NOTE : Before using it you must have puppeteer module. You can get it but cmd command : npm i puppeteer
