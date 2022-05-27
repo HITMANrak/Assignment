@@ -1,4 +1,4 @@
-# Assignment
+# Description
  This is an assignment I got through my first internship.
  Basically this is an javascript based program which uses a node.js library called Puppeteer.
  Its purpuse is to taking screenshots of all the bootstrap theme or html file present within the site/folder/index.html like a preview.
