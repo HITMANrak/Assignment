@@ -1,0 +1,22 @@
+[
+    {
+      "url": "file://C:/Users/Lenovo/Documents/sites/faster/index.html",
+      "name": "Faster Theme"
+    },
+    {
+      "url": "file://C:/Users/Lenovo/Documents/sites/foody/index.html",
+      "name": "Foody Theme"
+    },
+    {
+      "url": "file://C:/Users/Lenovo/Documents/sites/material/index.html",
+      "name": "Material Theme"
+    },
+    {
+      "url": "file://C:/Users/Lenovo/Documents/sites/painter/index.html",
+      "name": "Painter Theme"
+    },
+    {
+        "url": "file://C:/Users/Lenovo/Documents/sites/solartec/index.html",
+        "name": "Solartec Theme"
+    }
+  ]
